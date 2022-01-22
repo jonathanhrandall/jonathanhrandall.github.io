@@ -1,3 +1,4 @@
-layout: page
-title: "Home"
-permalink: /URL-PATH/
+---
+layout: home
+author_profile: true
+---

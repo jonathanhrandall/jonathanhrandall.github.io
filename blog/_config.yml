@@ -18,21 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "CS371p Spring 2022: Jonathan Randall"
+title: "Jonathan Randall"
 email: jon.hrandall@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Jonathan Randall is a programmer, student, and burgeoning watercolor artist at the University of Texas.
 baseurl: /blog # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jonathanhrandall.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jonhrandall
 github_username:  jonathanhrandall
 repository: "jonathanhrandall/jonathanhrandall.github.io"
 
 # Build settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dirt"
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache

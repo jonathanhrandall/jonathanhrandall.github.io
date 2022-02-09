@@ -1,8 +1,8 @@
 ---
-layout: home
-author_profile: true
+layout: page
+title: Resume
+permalink: /resume/
 ---
-# Jonathan Randall
 
 ## Education
 ### The University of Texas at Austin
@@ -11,7 +11,7 @@ author_profile: true
 
 ## Experience
 
-### Software Engineering Intern - Backend, CriticalSTART
+### Software Engineering Intern, Backend — CriticalSTART
 - Developed, tested, deployed and monitored backend applications
 - ContentManager microservice
     - Coordinated with threat research team to engineer malware detections
@@ -19,17 +19,16 @@ author_profile: true
 - Zero Trust Analytics Platform
     - Designed plugins to enrich security incidents with additional data
 
-### Supplemental Instruction Leader, Sanger Learning Center, UT Austin
+### Supplemental Instruction Leader  — Sanger Learning Center
 - Created lesson plans and led tutoring sessions for computer science students
 
-### Web Designer, Department of Government, UT Austin
+### Web Designer — UT Dept. of Government
 - Designed site with React for diversity & inclusion in graduate studies initiative
 
-### Machine Learning Research Assistant
-- Computational Visualization Center, UT Austin
+### Machine Learning Research Assistant — Computational Visualization Center
 - Studied tensor networks as applied to unsupervised deep learning
 
-### Teaching Assistant, UT Dept. of Computer Science
+### Teaching Assistant — UT Dept. of Computer Science
 - Freshman Research Initiative, UT Austin
     - Served as a peer mentor for the Quantum Computing FRI stream
 - Behavioral Ethics
@@ -37,6 +36,7 @@ author_profile: true
 ## Projects
 ### HomeFarmer (2020)
 - Led, designed, and deployed frontend React application
+
 ### ODE2VAE++ (2020)
 - Tested various encoder and decoder architectures for ODE2VAE paper
 - Generated additional training data, simulated using Newton's method

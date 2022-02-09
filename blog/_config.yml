@@ -18,21 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Jonathan Randall"
+title: Jonathan Randall
 email: jon.hrandall@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jonathan Randall is a programmer, student, and burgeoning watercolor artist at the University of Texas.
-baseurl: /blog # the subpath of your site, e.g. /blog
+  Jonathan Randall is a computer science student.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonathanhrandall.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jonhrandall
+twitter_username: 
 github_username:  jonathanhrandall
-repository: "jonathanhrandall/jonathanhrandall.github.io"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

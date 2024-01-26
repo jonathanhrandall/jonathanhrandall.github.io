@@ -12,6 +12,7 @@ permalink: /resume/
 ## Experience
 
 ### Software Engineering Intern, Backend — CriticalSTART
+May - Aug 2021
 - Developed, tested, deployed and monitored backend applications
 - ContentManager microservice
     - Coordinated with threat research team to engineer malware detections
@@ -20,12 +21,15 @@ permalink: /resume/
     - Designed plugins to enrich security incidents with additional data
 
 ### Supplemental Instruction Leader  — Sanger Learning Center
+Aug 2019 - Dec 2021
 - Created lesson plans and led tutoring sessions for computer science students
 
 ### Web Designer — UT Dept. of Government
+Jan - May 2021
 - Designed site with React for diversity & inclusion in graduate studies initiative
 
 ### Machine Learning Research Assistant — Computational Visualization Center
+May - Aug 2020
 - Studied tensor networks as applied to unsupervised deep learning
 
 ### Teaching Assistant — UT Dept. of Computer Science
